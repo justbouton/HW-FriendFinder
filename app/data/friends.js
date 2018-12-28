@@ -1,7 +1,7 @@
 var friendsData = [
     {
         name: "Justin",
-        photo: "https://bit.ly/2LCIVK6",
+        photo: "https://lh6.googleusercontent.com/-tf1LUrBpHT8/AAAAAAAAAAI/AAAAAAAAAHg/oDLejqNo5vc/photo.jpg",
         scores: [
             "5",
             "1",
@@ -16,17 +16,17 @@ var friendsData = [
         ]
     },
     {
-        name: "Daniel",
-        photo: "",
+        name: "Danny",
+        photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Danny_DeVito_cropped_and_edited_for_brightness.jpg/220px-Danny_DeVito_cropped_and_edited_for_brightness.jpg",
         scores: [
-            "5",
+            "1",
             "1",
             "4",
-            "4",
-            "5",
+            "1",
+            "3",
             "1",
             "2",
-            "5",
+            "3",
             "4",
             "1"
         ]
